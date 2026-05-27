@@ -1,4 +1,4 @@
-Você tem razão, Cláudio. Abaixo está o **desafio pronto em Markdown**, sem modelo para preencher e sem colchetes. É só usar como `README.md` no GitHub. Montei a entrega final conforme os passos do desafio enviado. 
+
 
 ```markdown
 # 🎯 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
